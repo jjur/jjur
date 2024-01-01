@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjur&label=Profile%20views&color=0e75b6&style=flat" alt="jjur" /> </p>
 
 - 🌱 I’m currently learning **Streamlit**
-- 💬 Ask me about **Sleep, Python, Django, wxPython**
+- 💬 Ask me about **Sleep, Azure, Python, Django, wxPython, SQL Server**
 - 📫 How to reach me **jjursk(at)pm.me**
 
 <h3 align="left">Connect with me:</h3>
