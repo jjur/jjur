@@ -11,7 +11,7 @@
 <a href="https://github.com/jjur" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:jjursk(at)pm.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<a href="https://app.daily.dev/jurajvasek"><img src="https://api.daily.dev/devcards/v2/hmZlSMETmXjgQYnkVZxaI.png?r=the&type=default" width="356" alt="Juraj Vasek's Dev Card"/></a>
 <h3 align="left">Languages and Tools <small>(list is not exhaustive)</small>:</h3> 
 
   <h4>Lanuages</h4>
