@@ -2,7 +2,7 @@
 <h3 align="center">Sleep Science and Data Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjur&label=Profile%20views&color=0e75b6&style=flat" alt="jjur" /> </p>
 
-- 🌱 I’m currently learning **Streamlit**
+- 🌱 I’m currently learning **Terraform**
 - 💬 Ask me about **Sleep, Azure, Python, Django, wxPython, SQL Server**
 - 📫 How to reach me **jjursk(at)pm.me**
 
